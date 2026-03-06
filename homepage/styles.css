@@ -1,0 +1,37 @@
+Body {
+    text-align: center;
+    background-color: white;
+    font-family: "Lobster Two", sans-serif;
+}
+
+#home {
+    background-image: url("NewYork2.jpeg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Lobster Two", sans-serif;
+    font-size: 40px;
+}
+
+#essay {
+    font-size: 22px;
+}
+
+#pictures {
+    background-color: #5cada2;
+}
+
+
+#navbar {
+    background-color: #4b827a;
+    font-size: 20px;
+}
+
+#map {
+    background-image: url("Mappic.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
